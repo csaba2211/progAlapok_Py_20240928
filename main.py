@@ -1,10 +1,9 @@
-import tizenhatodik
-
 print("szia csaba")
 #import masodik
 #import negyedik
 #import hatodik
 #import tizenegyedik
+import tizenhatodik
 import elagazasMinta
 #negyedik.negyedikFeladat()
 #hatodik.hatodikFeladat()
